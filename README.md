@@ -31,8 +31,14 @@ pytest
 | **06** | Loops & Input | [L06 Loops](Notes/L06%20User%20Input%20and%20While%20Loops.ipynb) | [ex02_loops.py](exercises/ex02_loops.py) | [sol02_loops.py](solutions/sol02_loops.py) |
 | **07** | Functions | [L07 Functions](Notes/L07%20Functions.ipynb) | - | - |
 | **08** | Classes | [L08 Classes](Notes/L08%20Classes.ipynb) | - | - |
+| **09** | Comprehensions | [L09 List Comprehensions](Notes/L09%20List%20Comprehensions.ipynb) | - | - |
+| **10** | Files & Errors | [L10 Files and Exceptions](Notes/L10%20Files%20and%20Exceptions.ipynb) | - | - |
+| **11** | Testing | [L11 Testing Your Code](Notes/L11%20Testing%20Your%20Code.ipynb) | - | - |
+| **12** | Standard Library | [L12 The Standard Library](Notes/L12%20The%20Standard%20Library.ipynb) | - | - |
+| **13** | Type Hints | [L13 Type Hints](Notes/L13%20Type%20Hints.ipynb) | - | - |
+| **14** | Project Setup | [L14 Project Setup](Notes/L14%20Project%20Setup.ipynb) | - | - |
 
-*(More advanced topics like Files, Testing, and Type Hints are in the `Notes/` folder)*
+---
 
 ## 🧠 Learning Outcomes & Engineering Thinking
 
