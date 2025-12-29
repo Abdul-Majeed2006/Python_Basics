@@ -1,5 +1,9 @@
 # 🐍 Python Basics Learning Environment ✨
 
+[![Python Tests](https://github.com/Abdul-Majeed2006/Python_Basics/actions/workflows/test.yml/badge.svg)](https://github.com/Abdul-Majeed2006/Python_Basics/actions/workflows/test.yml)
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Course Objective**: Learn Python from completely zero to intermediate engineering concepts. This course emphasizes not just *syntax*, but *engineering discipline*—teaching you how to write code that is reproducible, testable, and maintainable.
 
 ## ⚡ Quick Start
