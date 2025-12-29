@@ -9,13 +9,10 @@ git clone https://github.com/Abdul-Majeed2006/Python_Basics.git
 cd Python_Basics
 
 python -m venv venv
-# Windows
-venv\Scripts\activate
-# Mac/Linux
-# source venv/bin/activate
+source venv/bin/activate  # Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
-jupyter notebook
+pytest
 ```
 
 ## 📂 Folder Structure
