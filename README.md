@@ -1,6 +1,6 @@
 # 🐍 Python Basics Learning Environment ✨
 
-Welcome to your personal Python university. This repository is structured to take you from absolute zero to a capable Python developer ready to build games and apps.
+**Course Objective**: Learn Python from completely zero to intermediate engineering concepts. This course emphasizes not just *syntax*, but *engineering discipline*—teaching you how to write code that is reproducible, testable, and maintainable.
 
 ## ⚡ Quick Start
 
@@ -15,52 +15,37 @@ pip install -r requirements.txt
 pytest
 ```
 
-## 📂 Folder Structure
+## 📚 Lesson Flow
 
-### 1. `src/` & `tests/` (Engineering Best Practices)
+| Lesson | Topic | Notes (Theory) | Exercise (Practice) | Solution (Reference) |
+| :--- | :--- | :--- | :--- | :--- |
+| **01** | Variables | [L01 Variables](Notes/L01%20Variables%20and%20Simple%20Data%20Types.ipynb) | [ex01_variables.py](exercises/ex01_variables.py) | [sol01_variables.py](solutions/sol01_variables.py) |
+| **02** | Lists | [L02 Lists](Notes/L02%20introducing%20lists.ipynb) | - | - |
+| **03** | Working w/ Lists | [L03 Working With Lists](Notes/L03%20Working%20With%20Lists.ipynb) | - | - |
+| **04** | If Statements | [L04 If Statements](Notes/L04%20If%20Statements.ipynb) | - | - |
+| **05** | Dictionaries | [L05 Dictionaries](Notes/L05%20Dictionaries.ipynb) | - | - |
+| **06** | Loops & Input | [L06 Loops](Notes/L06%20User%20Input%20and%20While%20Loops.ipynb) | [ex02_loops.py](exercises/ex02_loops.py) | [sol02_loops.py](solutions/sol02_loops.py) |
+| **07** | Functions | [L07 Functions](Notes/L07%20Functions.ipynb) | - | - |
+| **08** | Classes | [L08 Classes](Notes/L08%20Classes.ipynb) | - | - |
 
-- **`src/`**: Contains reusable Python modules. This is where "production" code lives.
-- **`tests/`**: Contains automated tests (`pytest`) to ensure code verification.
+*(More advanced topics like Files, Testing, and Type Hints are in the `Notes/` folder)*
 
-### 2. `exercises/` & `solutions/` (Practice)
+## 🧠 Learning Outcomes & Engineering Thinking
 
-- **`exercises/`**: Hands-on coding challenges for each lesson.
-- **`solutions/`**: Reference implementations to check your work.
+### 🔹 Lesson 01: Variables
+- **Concept**: Storing data types (strings, integers).
+- **Skill**: Basic state management.
+- **Engineering Mindset**: Naming variables descriptively (`user_age` vs `x`) prevents bugs later.
 
-### 3. `Notes/` (The Curriculum)
+### 🔹 Lesson 06: Loops
+- **Concept**: Iteration and control flow.
+- **Skill**: Automating repetitive tasks.
+- **Common Mistake**: modifying a list while iterating over it (causes skipped items).
 
-This folder contains your interactive textbooks (`.ipynb` files).
-Go through them in order.
+## 📂 Repository Structure
 
-* **Foundation**
-  * `L01 - L04`: Variables, Lists, Loops, Conditionals.
-  * `L05 - L06`: Dictionaries, Input.
-  * `L07 - L08`: Functions & Classes (The building blocks of apps).
-* **The "Pro" Upgrade** (New additions!)
-  * `L09 List Comprehensions`: How to write code like a senior dev.
-  * `L10 Files`: Saving data.
-  * `L11 Testing`: Proving your code works.
-  * `L12 Standard Library`: Using built-in tools.
-  * `L13 Type Hints`: Modern Python syntax.
-  * `L14 Project Setup`: Virtual Environments & Pip.
-
-## 🚀 How to Start learning
-
-1. Install VS Code and the Python Extension.
-2. Open this folder in VS Code.
-3. Click on `Notes/L01 Variables...ipynb`.
-4. Read the explanation, then click the **Play Button (▶)** to run the code.
-5. **Complete the Mission**: Every chapter ends with a coding challenge. Do it!
-
-Happy Coding!
-
----
-
-## ⚖️ Legal & Licensing
-
-This project is protected by a **Proprietary "All Rights Reserved" License**.
-
-* **License:** See the [LICENSE](LICENSE) file for full terms. Unauthorized distribution is strictly prohibited.
-* **Disclaimer:** Review the [LEGAL_NOTICE.md](LEGAL_NOTICE.md) for liability limitations and career disclaimers.
-
-© 2025 [Your Name/Author]
+- **`src/`**: reusable code modules (The "Product").
+- **`tests/`**: automated verification (The "Proof").
+- **`exercises/`**: your workspace.
+- **`solutions/`**: the answer key.
+- **`Notes/`**: the textbook.
