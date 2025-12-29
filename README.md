@@ -2,6 +2,22 @@
 
 Welcome to your personal Python university. This repository is structured to take you from absolute zero to a capable Python developer ready to build games and apps.
 
+## ⚡ Quick Start
+
+```bash
+git clone https://github.com/Abdul-Majeed2006/Python_Basics.git
+cd Python_Basics
+
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# Mac/Linux
+# source venv/bin/activate
+
+pip install -r requirements.txt
+jupyter notebook
+```
+
 ## 📂 Folder Structure
 
 ### 1. `Notes/` (The Curriculum)
