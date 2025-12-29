@@ -20,7 +20,12 @@ jupyter notebook
 
 ## 📂 Folder Structure
 
-### 1. `Notes/` (The Curriculum)
+### 1. `src/` & `tests/` (Engineering Best Practices)
+
+- **`src/`**: Contains reusable Python modules. This is where "production" code lives, separate from notebooks.
+- **`tests/`**: Contains automated tests (`pytest`). This ensures our code actually works and prevents regressions.
+
+### 2. `Notes/` (The Curriculum)
 
 This folder contains your interactive textbooks (`.ipynb` files).
 Go through them in order.
