@@ -1,4 +1,4 @@
-# 🐍 Python Basics Learning Environment
+# 🐍 Python Basics Learning Environment ✨
 
 Welcome to your personal Python university. This repository is structured to take you from absolute zero to a capable Python developer ready to build games and apps.
 
