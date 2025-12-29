@@ -1,30 +1,21 @@
-# PROPRIETARY LICENSE - ALL RIGHTS RESERVED
+MIT License
 
-**Copyright (c) 2025 [Your Name/Author]**
+Copyright (c) 2025 Abdul-Majeed2006
 
-## 1. GRANT OF LICENSE
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This software, curriculum, and all associated documentation ("Zero to Hero: Pygame Masterclass") are the exclusive property of the author. This license grants you a personal, non-exclusive, non-transferable, and revocable right to use the contents of this repository strictly for **personal educational purposes**.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## 2. RESTRICTIONS
-
-You are explicitly prohibited from:
-
-- **Redistribution:** Copying, sharing, or redistributing the code or materials in any form, including but not limited to public repositories (e.g., GitHub, GitLab), file-sharing sites, or internal networks.
-- **Commercial Use:** Using the materials for any commercial purpose or financial gain, including teaching paid courses or using the code in commercial software without prior written consent.
-- **Re-hosting:** Hosting these materials on any website or platform other than where they were originally obtained.
-
-## 3. ANTI-PIRACY & MISUSE
-
-Unauthorized distribution of this material constitutes a violation of international copyright laws.
-
-- **Civil and Criminal Penalties:** Violation of these terms may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.
-- **Reporting:** You are required to report any known unauthorized distribution or piracy of this material to the author.
-
-## 4. TERMINATION
-
-This license is effective until terminated. Your rights under this license will terminate automatically without notice from the author if you fail to comply with any of its terms. Upon termination, you must cease all use and destroy all copies of the materials.
-
-## 5. GOVERNING LAW
-
-Any legal action or proceeding related to this license shall be governed by the laws of [Your Jurisdiction/Country].
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
