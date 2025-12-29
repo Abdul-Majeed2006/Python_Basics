@@ -19,10 +19,15 @@ pytest
 
 ### 1. `src/` & `tests/` (Engineering Best Practices)
 
-- **`src/`**: Contains reusable Python modules. This is where "production" code lives, separate from notebooks.
-- **`tests/`**: Contains automated tests (`pytest`). This ensures our code actually works and prevents regressions.
+- **`src/`**: Contains reusable Python modules. This is where "production" code lives.
+- **`tests/`**: Contains automated tests (`pytest`) to ensure code verification.
 
-### 2. `Notes/` (The Curriculum)
+### 2. `exercises/` & `solutions/` (Practice)
+
+- **`exercises/`**: Hands-on coding challenges for each lesson.
+- **`solutions/`**: Reference implementations to check your work.
+
+### 3. `Notes/` (The Curriculum)
 
 This folder contains your interactive textbooks (`.ipynb` files).
 Go through them in order.
