@@ -19,24 +19,31 @@ pip install -r requirements.txt
 pytest
 ```
 
-## 📚 Lesson Flow
+## 📚 Engineering Roadmap (Lesson Flow)
 
-| Lesson | Topic | Notes (Theory) | Exercise (Practice) | Solution (Reference) |
-| :--- | :--- | :--- | :--- | :--- |
-| **01** | Variables | [L01 Variables](Notes/L01%20Variables%20and%20Simple%20Data%20Types.ipynb) | [ex01_variables.py](exercises/ex01_variables.py) | [sol01_variables.py](solutions/sol01_variables.py) |
-| **02** | Lists | [L02 Lists](Notes/L02%20introducing%20lists.ipynb) | - | - |
-| **03** | Working w/ Lists | [L03 Working With Lists](Notes/L03%20Working%20With%20Lists.ipynb) | - | - |
-| **04** | If Statements | [L04 If Statements](Notes/L04%20If%20Statements.ipynb) | - | - |
-| **05** | Dictionaries | [L05 Dictionaries](Notes/L05%20Dictionaries.ipynb) | - | - |
-| **06** | Loops & Input | [L06 Loops](Notes/L06%20User%20Input%20and%20While%20Loops.ipynb) | [ex02_loops.py](exercises/ex02_loops.py) | [sol02_loops.py](solutions/sol02_loops.py) |
-| **07** | Functions | [L07 Functions](Notes/L07%20Functions.ipynb) | - | - |
-| **08** | Classes | [L08 Classes](Notes/L08%20Classes.ipynb) | - | - |
-| **09** | Comprehensions | [L09 List Comprehensions](Notes/L09%20List%20Comprehensions.ipynb) | - | - |
-| **10** | Files & Errors | [L10 Files and Exceptions](Notes/L10%20Files%20and%20Exceptions.ipynb) | - | - |
-| **11** | Testing | [L11 Testing Your Code](Notes/L11%20Testing%20Your%20Code.ipynb) | - | - |
-| **12** | Standard Library | [L12 The Standard Library](Notes/L12%20The%20Standard%20Library.ipynb) | - | - |
-| **13** | Type Hints | [L13 Type Hints](Notes/L13%20Type%20Hints.ipynb) | - | - |
-| **14** | Project Setup | [L14 Project Setup](Notes/L14%20Project%20Setup.ipynb) | - | - |
+> **No Hype. Pure Engineering.**
+>
+> 🏆 **[START THE PROJECT-DRIVEN ROADMAP HERE (PROJECTS.md)](PROJECTS.md)** 🏆
+
+| Phase | Topic | Engineering Grade Notes | Practice |
+| :--- | :--- | :--- | :--- |
+| **00** | Mental Setup | [Phase 00 Mental Setup](Notes/Phase_00_Mental_Setup.ipynb) | Trace code manually |
+| **01** | Absolute Core | [Phase 01 Absolute Core](Notes/Phase_01_Absolute_Core.ipynb) | `exercises/ex01_variables.py` |
+| **02** | Control Flow | [Phase 02 Control Flow](Notes/Phase_02_Control_Flow.ipynb) | `exercises/ex02_loops.py` |
+| **03** | Functions | [Phase 03 Functions](Notes/Phase_03_Functions.ipynb) | - |
+| **04** | Data Structures | [Phase 04 Data Structures](Notes/Phase_04_Data_Structures.ipynb) | - |
+| **05** | File Handling | [Phase 05 File Handling](Notes/Phase_05_File_Handling.ipynb) | - |
+| **06** | Exceptions | [Phase 06 Exceptions](Notes/Phase_06_Exceptions.ipynb) | - |
+| **07** | Modules | [Phase 07 Modules](Notes/Phase_07_Modules.ipynb) | - |
+| **08** | OOP | [Phase 08 OOP](Notes/Phase_08_OOP.ipynb) | - |
+| **09** | Comprehensions | [Phase 09 Comprehensions](Notes/Phase_09_Comprehensions.ipynb) | - |
+| **10** | Iterators | [Phase 10 Iterators](Notes/Phase_10_Iterators.ipynb) | - |
+| **11** | Decorators | [Phase 11 Decorators](Notes/Phase_11_Decorators.ipynb) | - |
+| **12** | Debugging | [Phase 12 Debugging](Notes/Phase_12_Debugging.ipynb) | - |
+| **13** | Performance | [Phase 13 Performance](Notes/Phase_13_Performance.ipynb) | - |
+| **14** | Applications | [Phase 14 Applications](Notes/Phase_14_Applications.ipynb) | Build something |
+
+*Legacy notes have been archived in `Notes/legacy_v1/`*
 
 ---
 
